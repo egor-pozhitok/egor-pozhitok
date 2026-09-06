@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="Yahor Pazhytak — Frontend, Mobile & Engineering" />
+  <img src="./hero.png" width="100%" alt="Yahor Pazhytak — Frontend, Mobile & Engineering" />
 </p>
 
 <h1 align="center">Yahor Pazhytak</h1>
@@ -83,7 +83,7 @@ Technical direction across architecture, people and product delivery.
 A personal finance product designed and engineered end-to-end across product experience, mobile architecture, data, security and delivery.
 
 <p align="center">
-  <img src="./assets/eply-preview.png" width="100%" alt="EPLY personal finance application" />
+  <img src="./eply-preview.png" alt="EPLY personal finance application" />
 </p>
 
 `React Native` · `Expo` · `TypeScript` · `SQLite` · `Offline-first`
